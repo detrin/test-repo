@@ -4,4 +4,4 @@ This is a test repository.
 
 test commit C
 
-BBB
+BBB2
