@@ -4,5 +4,5 @@ This is a test repository.
 
 test commit C
 
-BBB3
-zmena v maine počas inej zmeny v test_branch2
+BBB4
+zmena2 v maine počas inej zmeny v test_branch2
