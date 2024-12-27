@@ -2,4 +2,4 @@
 
 This is a test repository.
 
-test commit B
+test commit C
